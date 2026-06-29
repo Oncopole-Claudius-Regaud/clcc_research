@@ -1,1 +1,1 @@
-version dorothea
+version stable
