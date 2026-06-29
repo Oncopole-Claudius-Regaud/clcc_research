@@ -1,1 +1,1 @@
-version chimio
+version stable
